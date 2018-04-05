@@ -4,12 +4,10 @@ Un poco tarde pero aquí está el curso de programación básica.
 Lo hago principalmente porque quiero estudiar con mi novia y quiero motivarla a que siga estudiando y aprendiendo cada día más.
 
 * JavaScript != Java
-1. pene
-1. bahina
 
 ## HTML
 Es un lenguaje de maquetado, es decir: HTML nos ayuda a dar un orden básico a nuestros sitios web, es como decir que es el esqueleto de nuestro sitio web.
-### Etiquetas 
+### Etiquetas
 las etiquetas en html significan cosas especiales, todo lo que esté dentro de una etiqueta se ve afectado de una forma especial.
 
 ## CSS
