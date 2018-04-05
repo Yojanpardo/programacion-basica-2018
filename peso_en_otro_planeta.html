@@ -4,6 +4,17 @@
 	<title>mi "primer" programa con HTML</title>
 </head>
 <body>
-
+	<h1>Tu peso en otro planeta</h1>
+	<p>En otros lugares del espacio pesas distinto que en la tierra</p>
+	<script type="text/javascript">
+		var gravedad_tierra = 9.8;
+		var gravedad_marte = 3.7;
+		var gravedad_jupiter = 24.8;
+		var peso = 60;
+		var peso_final;
+		peso_final = (peso*gravedad_marte)/gravedad_tierra;
+		peso_final = parseInt(peso_final);
+		document.write("tu peso en marte es: " + peso_final + "kg");
+	</script>
 </body>
 </html>
